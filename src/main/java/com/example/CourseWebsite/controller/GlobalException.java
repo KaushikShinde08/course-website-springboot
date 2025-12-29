@@ -1,4 +1,4 @@
-package com.example.CourseWebsite.exception;
+package com.example.CourseWebsite.controller;
 
 import jakarta.validation.ConstraintViolationException;
 import org.springframework.http.HttpStatus;
